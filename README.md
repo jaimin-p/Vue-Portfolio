@@ -1,8 +1,7 @@
 # Vue-Portfolio
-## Vue-Router
-## Axios
-## Vuex
+### Vue-Router
+### Axios
+### Vuex
 
-### published at https://jaimin-p.github.io/Vue-Portfolio/
+### published at https://jaimin-p.github.io/Vue-Portfolio/ Click Home Tab 
 
-## Click Home Tab 
