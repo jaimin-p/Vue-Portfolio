@@ -3,5 +3,5 @@
 ### Axios
 ### Vuex
 
-### published at https://jaimin-p.github.io/Vue-Portfolio/ Click Home Tab 
+### published at https://jaimin-p.github.io/
 
